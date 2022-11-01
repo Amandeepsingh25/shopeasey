@@ -1,0 +1,19 @@
+/*for title*/
+.navbar-brand{
+    font-size:1.25rem;
+    font-weight:bold;
+}
+.space{
+    margin-left:50%;
+}
+.navbar{
+    padding-top: 1.2%;
+}
+/*use @media to view it in mobile*/
+.search{
+    position: relative;
+    left:45%
+}
+.row{
+    background-color: #92B4EC;
+}
